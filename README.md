@@ -29,9 +29,6 @@ The model can predict the following 17 languages:
 Features
 
 Multilingual Support: Detects 17 different languages.
-
 High Accuracy: Built using advanced NLP techniques for precise language detection.
-
 Fast Prediction: Quickly identifies the language of any input text.
-
 Easy to Use: Simple and intuitive interface for integration with other projects.
